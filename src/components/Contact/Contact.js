@@ -1,6 +1,6 @@
 import { useState } from "react";
 import axios from "axios";
-import { Container, Form, FloatingLabel } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import "../../Assets/styles/_contact-styles.scss";
 import Button from "../common/Button";
 import MensajeForm from "./MensajeForm";

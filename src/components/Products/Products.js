@@ -65,12 +65,13 @@ export default () => {
         <Col xl={10} lg={10} sm={10} className="my-img-products">
           <Col xl={6} lg={6} sm={8} className="my-slider-products">
             <div className="products-content">
-              <h3 className="products-subtitle">Valentina</h3>
-              <h2 className="products-h2"> Martinez</h2>
 
-              <img src={imgGithub} className="imgSlider" />
+              <h1>Lorem ipsum dolor sit amet </h1>
+              <h2>consetetur sadipscing elitr, sed
+                diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                aliquyam erat, sed diam voluptua.</h2>
               <a className="products-p" href="https://example.com">
-                https://github.com/valentina111319
+                
               </a>
 
               <div className="products-arrows">
@@ -100,12 +101,14 @@ export default () => {
         <Col xl={10} lg={10} sm={10} className="my-img-products">
           <Col xl={6} lg={6} sm={8} className="my-slider-products">
             <div className="products-content">
-              <h3 className="products-subtitle">Franco</h3>
-              <h2 className="products-h2"> Storero</h2>
 
-              <img src={imgGithub} className="imgSlider" />
+              <h1>Hola Mundo</h1>
+              <h3>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+                diam nonumy eirmod tempor invidunt ut labore et dolore magna
+                aliquyam erat, sed diam voluptua. At vero eos et accusam et
+                justo duo dolores et ea rebum.</h3>
               <a className="products-p" href="https://example.com">
-                https://github.com/FrancoStorero
+                
               </a>
 
               <div className="products-arrows">

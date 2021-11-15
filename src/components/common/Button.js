@@ -5,7 +5,7 @@ export default function Button({onClick}) {
   return (
     <Container>
       <Col xl={2} lg={2} sm={8} className="p-0">
-        <button type="submit" onClick={onClick} className="my-button">Button</button>
+        <button type="submit" onClick={onClick} className="my-button">Send</button>
       </Col>
     </Container>
   );

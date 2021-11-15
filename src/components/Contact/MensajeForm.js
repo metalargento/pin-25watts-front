@@ -35,7 +35,7 @@ export default ({ onClick, status }) => {
           
         >
           <Alert.Heading>Mensaje Enviado Correctamente!</Alert.Heading>
-          <p className="vv">Gracias Por Comunicarte Con Nosotros</p>
+          <p className="vv">Gracias, vuelvas prontos!</p>
           <Button variant="light" className="vvrr">
             Close
           </Button>

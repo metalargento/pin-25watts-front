@@ -1,6 +1,6 @@
 import imagen1 from "../../../Assets/images/slider-1.png";
-import imagen2 from "../../../Assets/images/slider-2.png";
-import imagen3 from "../../../Assets/images/slider-3.png";
+import imagen2 from "../../../Assets/images/section3-image.png";
+import imagen3 from "../../../Assets/images/slider-4.png";
 import { Container } from "react-bootstrap";
 
 export default function Slider({ imgIndex }) {
