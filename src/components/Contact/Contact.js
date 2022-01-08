@@ -32,8 +32,8 @@ export default () => {
     const sendData = async () => {
       try {
         const response = await axios.post(
-          "https://jsonplaceholder.typicode.com/posts",
-          /* "http://127.0.0.1:8000/api/saveUsuarios" */
+          
+          "http://127.0.0.1:8000/api/saveUsuarios", 
 
           formData
         );
