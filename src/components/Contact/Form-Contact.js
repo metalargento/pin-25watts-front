@@ -1,6 +1,6 @@
 import { Container, Form, FloatingLabel } from "react-bootstrap";
 import "../../Assets/styles/_contact-styles.scss";
-import Button from "../common/Button";
+import Button from "../common/Button2";
 
 export default ({ onClick, onChange }) => {
   return (

@@ -2,7 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import { Container } from "react-bootstrap";
 import "../../Assets/styles/_contact-styles.scss";
-import Button from "../common/Button";
+import Button from "../common/Button2";
 import MensajeForm from "./MensajeForm";
 import FormContact from "./Form-Contact";
 
