@@ -7,7 +7,7 @@ const instance = axios.create({
 const sendEmail = async (dataConsole) => {
   const response = await instance({
     method: "post",
-    url: "https:/laravelmundose.herokuapp.com/public",
+    url: "https://proyecto-25watts-back.herokuapp.com/public/",
     data: dataConsole,
   });
 
