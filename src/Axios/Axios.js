@@ -7,7 +7,7 @@ const instance = axios.create({
 const sendEmail = async (dataConsole) => {
   const response = await instance({
     method: "post",
-    url: "/usuarios",
+    url: "/api/guardarUsuarios",
     data: dataConsole,
   });
 
