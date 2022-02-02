@@ -33,7 +33,7 @@ export default () => {
       try {
         const response = await axios.post(
           
-          "https://proyecto-25watts-back.herokuapp.com/usuarios", 
+          "https://proyecto-25watts-back.herokuapp.com/public/api/guardarUuario", 
 
           formData
         );
